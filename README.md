@@ -4,7 +4,7 @@ A/B-testing, SQL, ETL, API-function
 Стек: Python(pandas, pandahouse, numpy, seaborn, matplotlib, scipy, urllib, requests), Redash
 
 # Входные данные
-В качестве входных данных имеете 4 csv-файла:
+В качестве входных данных имеется 4 csv-файла:
 
 groups.csv - файл с информацией о принадлежности пользователя к контрольной или экспериментальной группе (А – контроль, B – целевая группа) 
 
